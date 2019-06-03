@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="youlogo">
+    <file>youtube-logo2.png</file>
+  </qresource>
+  <qresource prefix="analytic">
+    <file>analytic2.png</file>
+  </qresource>
+  <qresource prefix="ml">
+    <file>mlpic2.png</file>
+  </qresource>
+</RCC>
